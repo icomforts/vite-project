@@ -1,7 +1,7 @@
 <template>
   <h1>{{ msg }}</h1>
 
-  <p>安安你</p>
+  <p>安</p>
 
   <button @click="state.count++">count is: {{ state.count }}</button>
   <p>
